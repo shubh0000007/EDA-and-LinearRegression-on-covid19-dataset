@@ -1,2 +1,4 @@
 # EDA-and-LinearRegression-on-covid19-dataset
 The GitHub repository provides an in-depth exploration of COVID-19 data through Exploratory Data Analysis (EDA) and application of Linear Regression. The analysis encompasses thorough examination of trends, patterns, and correlations within the dataset, aiming to elucidate insights into the dynamics of the pandemic. Leveraging Linear Regression, the project delves into modeling and prediction of COVID-19 infection rates based on various factors. The repository offers a comprehensive overview of the data preprocessing, feature engineering, model building, and evaluation processes, accompanied by detailed explanations and visual representations for clarity and reproducibility.
+
+DATASET LINK/SOURCE-https://www.kaggle.com/datasets/n1sarg/covid19-india-datasets?select=covid_19_india.csv
